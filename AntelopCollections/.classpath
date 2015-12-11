@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="lib/xml/dom4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="lib/geoserver/security/commons-codec-1.2.jar"/>
+	<classpathentry kind="lib" path="lib/geoserver/security/commons-io-2.1.jar"/>
+	<classpathentry kind="lib" path="lib/geoserver/security/dom4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="lib/geoserver/security/gs-main-2.5.jar"/>
+	<classpathentry kind="lib" path="lib/geoserver/security/gs-platform-2.5.jar"/>
+	<classpathentry kind="lib" path="lib/geoserver/security/gt-metadata-11.0.jar"/>
+	<classpathentry kind="lib" path="lib/geoserver/security/gt-opengis-11.0.jar"/>
+	<classpathentry kind="lib" path="lib/geoserver/security/jai_core-1.1.3.jar"/>
+	<classpathentry kind="lib" path="lib/geoserver/security/jasypt-1.8.jar"/>
+	<classpathentry kind="lib" path="lib/geoserver/security/jsr-275-1.0-beta-2.jar"/>
+	<classpathentry kind="lib" path="lib/geoserver/security/vecmath-1.3.2.jar"/>
+	<classpathentry kind="lib" path="lib/export/commons-codec-1.9.jar"/>
+	<classpathentry kind="lib" path="lib/export/poi-3.10-FINAL-20140208.jar"/>
+	<classpathentry kind="lib" path="lib/export/poi-ooxml-3.10-FINAL-20140208.jar"/>
+	<classpathentry kind="lib" path="lib/export/poi-ooxml-schemas-3.10-FINAL-20140208.jar"/>
+	<classpathentry kind="lib" path="lib/ftp/commons-net-3.0.1.jar"/>
+	<classpathentry kind="lib" path="lib/json/jackson-all-1.8.10.jar"/>
+	<classpathentry kind="lib" path="lib/json/json-lib-2.2.2-jdk15.jar"/>
+	<classpathentry kind="lib" path="lib/json/commons-collections4-4.0.jar"/>
+	<classpathentry kind="lib" path="lib/randomValidateCode/servlet.jar"/>
+	<classpathentry kind="lib" path="lib/export/xmlbeans-2.3.0.jar"/>
+	<classpathentry kind="lib" path="lib/export/xercesImpl.jar"/>
+	<classpathentry kind="lib" path="lib/junit/junit-4.10.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6">
+		<attributes>
+			<attribute name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY" value="AntelopCollections/src/org/antelop/jni/example/library"/>
+			<attribute name="owner.project.facets" value="java"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="com.genuitec.runtime.library/com.genuitec.generic_6.0">
+		<attributes>
+			<attribute name="owner.project.facets" value="jst.webfragment"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
