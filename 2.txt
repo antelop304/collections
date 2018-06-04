@@ -1,3 +1,2 @@
-test2 in branch modify master
-line2 in master
+test2 in branch line one modifyline2 in master
 line3 in master
